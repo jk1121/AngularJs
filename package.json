@@ -1,0 +1,24 @@
+{
+  "name": "angularjs",
+  "version": "1.0.0",
+  "description": "Read me",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jk1121/AngularJs.git"
+  },
+  "author": "Jatin Khattar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jk1121/AngularJs/issues"
+  },
+  "homepage": "https://github.com/jk1121/AngularJs#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
